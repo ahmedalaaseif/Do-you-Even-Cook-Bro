@@ -1,8 +1,8 @@
-#Do-you-Even-Cook-Bro
-##Description
+# Do-you-Even-Cook-Bro
+## Description
 Do-you-Even-Cook-Bro is a personalized recipe recommendation backend for the Hello Fresh app. Leveraging user data from smart scales and nutritional information, the backend tailors meal suggestions to individual preferences and dietary restrictions. Our goal is to provide a unique and delightful cooking experience while minimizing food waste through diverse yet efficient ingredient usage.
 
-##Features
+## Features
 Personalized Recommendations: Utilize user data to offer tailored meal suggestions based on preferences and dietary restrictions.
 
 Nutritional Optimization: Access nutritional information to ensure recommended meals align with user health goals.
@@ -11,10 +11,10 @@ Allergy Considerations: Take into account user allergies to provide safe and enj
 
 Ingredient Efficiency: Recommend meals with diverse but overlapping ingredients to reduce food waste and promote sustainability.
 
-##Getting Started
+## Getting Started
 Follow these steps to get the backend up and running:
 
-###Prerequisites
+### Prerequisites
 Node.js
 MongoDB
 Installation
@@ -30,18 +30,18 @@ cd Do-you-Even-Cook-Bro
 Copy code
 npm install
 ```
-###Set up MongoDB:
+### Set up MongoDB:
 
 Create a MongoDB database.
 Configure the connection string in the .env file.
 
-###Start the server:
+### Start the server:
 
 ```bash
 Copy code
 npm start
 ```
-##Usage
+## Usage
 **User Data Integration:** Connect the backend with smart scales to gather user data.
 
 **Accessing Nutritional Information:** Ensure the system has access to accurate and updated nutritional databases.
@@ -52,18 +52,18 @@ npm start
 
 **Reduce Food Waste:** Consider the ingredient suggestions for each recipe to minimize food waste and promote sustainability.
 
-##API Endpoints
+## API Endpoints
 **/api/user/:id:** Get user details by ID.
 **/api/recipe/recommendations/:userId:** Get personalized recipe recommendations for a user.
 **/api/ingredients:** Get a list of ingredients.
 
-##Contributing
+## Contributing
 Contributions are welcome! Please follow the Contribution Guidelines.
 
-##License
+## License
 This project is licensed under the MIT License.
 
-##Acknowledgments
+## Acknowledgments
 Inspired by the Hello Fresh app.
 Nutritional data provided by Renpho Scale.
 Enjoy cooking and reduce food waste with Do-you-Even-Cook-Bro!
