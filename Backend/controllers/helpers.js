@@ -11,8 +11,9 @@ function parseMealText(text) {
       result["meals"] = {};
     } else if (line.trim() !== "") {
       // Split the line into meal name and reason
-      const [mealName, reason] = line.split(":").map((item) => item.trim());
-
+      let [mealName, reason] = line.split(":").map((item) => item.trim());
+      mealName = mealName.replace(/-/g, '');
+      mealName = mealName.trim() ;
       // Assign the reason to the respective meal name
       result["meals"][mealName] = reason;
       currentMeal = mealName;

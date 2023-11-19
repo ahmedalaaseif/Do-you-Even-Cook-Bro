@@ -1,1 +1,21 @@
-{"meals":{"Grilled Salmon with Quinoa and Mixed Vegetables":"because it is rich in Omega-3 fatty acids which are beneficial for heart health,","Vegetarian Chickpea Stir-Fry":"Packed with plant-based protein and fiber which supports digestion and overall health,","Lemon Garlic Grilled Shrimp Skewers":"A light meal that's high in protein and low in carbohydrates,","Mango Avocado Quinoa Salad":"Refreshing salad with a mix of nutrients from mango and avocado, providing vitamins and healthy fats,","Stuffed Portobello Mushrooms with Spinach and Feta":"A savory vegetarian dish rich in essential nutrients including iron and calcium from spinach, and beneficial fats from feta,","Ratatouille with Herbed Quinoa":"A colorful medley of vegetables that provides a wide range of vitamins, fiber, and antioxidants, paired with nutrient-rich quinoa,","Mediterranean Chickpea and Spinach Stew":"Hearty meal featuring chickpeas for protein and fiber, and spinach for iron and vitamins, making it a nutritious one-pot meal."},"information":"Below is the suggested user meals and the reason for them"}
+{
+    "information":
+        "Below is a 3-day dietary plan based on the given user data and meal options. The plan considers the dietary preferences and nutritional information provided; as well as the efforts to use meals with similar components to reduce waste. The breakfast 'Green Smoothie Bowl with Chia Seeds' is repeated each day to provide a consistent and nutritious start to the day. Quinoa is a recurring ingredient in many of the selected meals, which aligns with the goal of reducing waste. A variety of vegetables and protein sources are included to ensure a balanced diet. Since the user has a preference for Asian cuisine and an advanced difficulty level; meals were chosen to cater to those preferences without directly reflecting them in each day's plan.",
+    "meals": {
+        "Day1;": {
+            "  Breakfast": "Green Smoothie Bowl with Chia Seeds",
+            "  Lunch ": "Quinoa and Black Bean Bowl with Avocado",
+            "  Dinner": "Lemon Garlic Grilled Shrimp Skewers"
+        },
+        "Day2;": {
+            "  Breakfast": "Green Smoothie Bowl with Chia Seeds",
+            "  Lunch": "Mediterranean Chickpea and Spinach Stew",
+            "  Dinner": "Ratatouille with Herbed Quinoa"
+        },
+        "Day3;": {
+            "  Breakfast": "Green Smoothie Bowl with Chia Seeds",
+            "  Lunch": "Quinoa and Vegetable Stir-Fry",
+            "  Dinner": "Stuffed Portobello Mushrooms with Spinach and Feta"
+        }
+    }
+}
