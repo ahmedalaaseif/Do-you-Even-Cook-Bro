@@ -44,7 +44,7 @@ We welcome contributions from the community. If you have ideas for improvement, 
 
 ## App Demo
 
-[![Demo Video](thumbnail.jpg)](video.mp4)
+[![Demo Video](thumbnail.jpg)](Demo.mp4)
 
 ## License
 
