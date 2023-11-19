@@ -42,6 +42,10 @@ To get started with the Do-You-Even-Cook-Bro project, follow the instructions in
 
 We welcome contributions from the community. If you have ideas for improvement, bug fixes, or new features, feel free to open an issue or submit a pull request.
 
+## App Demo
+
+[![Demo Video](thumbnail.jpg)](video.mp4)
+
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).
